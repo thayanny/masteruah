@@ -2,11 +2,11 @@
 
 ## Comandos utilizados:
 
-git clone *camino*
-git add .
-git commit -m *'mensaje'*
-git push origin master / push inicial 
-git push
+1. git clone *camino*
+2. git add .
+3. git commit -m *'mensaje'*
+4. git push origin master / push inicial 
+5. git push
 git cd *'camino"*
 git tag -a *'nombre'* -m *'mensaje'* / para una nueva versión 
 git tag /para mostrar las versiones
